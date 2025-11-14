@@ -1,0 +1,3 @@
+
+Para las tablas de parametros, ejecutamos este comando de migracion
+php artisan migrate --path="database/migrations/parameters"
