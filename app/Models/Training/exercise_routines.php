@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Models\Training;
+namespace app\Models\Training;
 
-use App\Models\User;
-use App\Models\Parameters\muscles;
+use app\Models\User;
+use app\Models\Parameters\muscles;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Database\Eloquent\Factories\HasFactory;

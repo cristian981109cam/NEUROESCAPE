@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Models\Training;
+namespace app\Models\Training;
 
-use App\Models\User;
+use app\Models\User;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
-use App\Models\Training\exercise_routines;
+use app\Models\Training\exercise_routines;
 
 class user_assignment extends Model
 {

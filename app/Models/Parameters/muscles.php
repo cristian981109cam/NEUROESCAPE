@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Models\Parameters;
+namespace app\Models\Parameters;
 
-use App\Models\User;
+use app\Models\User;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\SoftDeletes;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
