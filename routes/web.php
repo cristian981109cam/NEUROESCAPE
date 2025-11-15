@@ -1,10 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\ApiController;
-use App\Http\Controllers\Parameters\MuscleController;
-use App\Http\Controllers\Training\exercise_routinesController;
-use App\Http\Controllers\Training\user_assignmentController;
+use app\Http\Controllers\ApiController;
+use app\Http\Controllers\parameters\MuscleController;
+use app\Http\Controllers\Training\exercise_routinesController;
+use app\Http\Controllers\Training\user_assignmentController;
 
 Route::get('/', function () {
     return view('auth.login');

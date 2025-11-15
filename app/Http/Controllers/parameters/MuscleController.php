@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Parameters;
+namespace app\Http\Controllers\parameters;
 
 use App\Http\Controllers\Controller;
 use App\Models\Parameters\muscles;
