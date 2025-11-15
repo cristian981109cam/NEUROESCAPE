@@ -5,7 +5,7 @@ namespace app\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Categoria;
 
-class CategoriaController extends Controller
+class PruebaController extends Controller
 {
     /**
      * Display a listing of the resource.
