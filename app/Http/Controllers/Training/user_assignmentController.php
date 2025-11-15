@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Http\Controllers\Training;
+namespace app\Http\Controllers\Training;
 
-use App\Http\Controllers\Controller;
-use App\Models\Training\user_assignment;
+use app\Http\Controllers\Controller;
+use app\Models\Training\user_assignment;
 use Illuminate\Http\Request;
 
 class user_assignmentController extends Controller

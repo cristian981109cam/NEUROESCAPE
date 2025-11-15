@@ -2,10 +2,10 @@
 
 namespace app\Http\Controllers;
 
-use App\Models\Parameters\muscles;
-use App\Models\Training\exercise_routines;
-use App\Models\Training\user_assignment;
-use App\Models\User;
+use app\Models\Parameters\muscles;
+use app\Models\Training\exercise_routines;
+use app\Models\Training\user_assignment;
+use app\Models\User;
 use Illuminate\Http\Request;
 
 class ApiController extends Controller
