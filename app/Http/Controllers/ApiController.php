@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace app\Http\Controllers;
 
 use App\Models\Parameters\muscles;
 use App\Models\Training\exercise_routines;
